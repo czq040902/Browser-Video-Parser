@@ -1,4 +1,5 @@
 {
+  "name": "Browser-Video-Parser",
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
